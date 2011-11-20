@@ -1,10 +1,11 @@
+
 <DOCTYPE html >
 <html>
 <head>
 <title>Ruby on Rail Tutorial | <%= @title %></title>
-<%csrf_meta_tag%>
 </head>
 <body>
- <%= yield %>
+<h1>Pages#contat</h1>
+<p>Find me in app/views/pages/home.html.erb</p>
 </body>
 </html>

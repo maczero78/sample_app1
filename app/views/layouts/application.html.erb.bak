@@ -2,7 +2,6 @@
 <html>
 <head>
 <title>Ruby on Rail Tutorial | <%= @title %></title>
-<%csrf_meta_tag%>
 </head>
 <body>
  <%= yield %>
